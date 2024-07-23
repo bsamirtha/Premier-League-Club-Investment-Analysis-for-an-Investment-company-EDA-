@@ -2,12 +2,7 @@
 
 # Domain: Sports
 
-# Introduction 
-Here's how you can format this information in a GitHub README file using bullet points:
-
----
-
-### Investment Firm Sports Team Dataset
+### Investment Firm Sports Team 
 
 A renowned investment firm is interested in investing in top-tier sports teams with the potential to win. The dataset includes essential information about the teams, such as the matches they played and the goals they scored.
 
