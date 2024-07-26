@@ -32,6 +32,6 @@ The management of the firm aims to invest in one of the top-performing clubs in 
 
 4. **Treating Null Values**: Using domain-specific knowledge to handle missing data, also known as domain-specific imputation. This involves applying contextually appropriate methods to fill in or manage missing values, ensuring the integrity and accuracy of the dataset.
 
-These key learnings emphasize the importance of thorough data preparation, critical observation, and informed analysis in any data-driven project.
+
 
 
